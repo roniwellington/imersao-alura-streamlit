@@ -54,7 +54,7 @@ Plotly 5.24.1
 git clone https://github.com/seu-usuario/dashboard-salarios.git
 cd dashboard-salarios
 ```
-2️⃣ Crie um ambiente virtual (opcional, mas recomendado)
+2️⃣ Crie um ambiente virtual
 ```
 python -m venv venv
 source venv/bin/activate    # Linux/Mac
