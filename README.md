@@ -27,10 +27,7 @@ A aplicação permite filtrar informações por **ano**, **senioridade**, **tipo
 
 ---
 
-## 🖼️ Demonstração
 
-> Caso o projeto esteja hospedado (ex.: Streamlit Cloud), adicione aqui o link:
-> [🔗 Acessar Dashboard](https://seu-link-aqui.com)
 
 ---
 
