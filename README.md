@@ -53,21 +53,27 @@ Plotly 5.24.1
 
 📦 Instalação e Execução
 1️⃣ Clone o repositório
+```
 git clone https://github.com/seu-usuario/dashboard-salarios.git
 cd dashboard-salarios
-
+```
 2️⃣ Crie um ambiente virtual (opcional, mas recomendado)
+```
 python -m venv venv
 source venv/bin/activate    # Linux/Mac
 venv\Scripts\activate       # Windows
-
+```
 3️⃣ Instale as dependências
+```
 pip install -r requirements.txt
-
+```
 4️⃣ Execute o projeto
+```
 streamlit run app.py
-
+```
 📊 Fonte dos Dados
 O conjunto de dados foi carregado diretamente de um arquivo CSV hospedado no GitHub:
+```
 https://raw.githubusercontent.com/vqrca/dashboard_salarios_dados/refs/heads/main/dados-imersao-final.csv
+```
 
